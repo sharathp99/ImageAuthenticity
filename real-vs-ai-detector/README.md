@@ -97,6 +97,9 @@ App outputs:
 - Metrics display if `reports/metrics.json` exists
 - Limitations disclaimer
 
+  <img width="1865" height="916" alt="image" src="https://github.com/user-attachments/assets/78db31cd-dc5d-464f-bfa9-cc67d8170638" />
+
+
 ## Streamlit Community Cloud Deployment
 1. Push repository to GitHub.
 2. In Streamlit Community Cloud, create a new app from the repo.
