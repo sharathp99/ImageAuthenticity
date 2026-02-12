@@ -98,6 +98,12 @@ App outputs:
 - Limitations disclaimer
 
   <img width="1865" height="916" alt="image" src="https://github.com/user-attachments/assets/78db31cd-dc5d-464f-bfa9-cc67d8170638" />
+  <img width="1867" height="910" alt="image" src="https://github.com/user-attachments/assets/d8a28099-aa9f-45e0-a669-85d783ed61f9" />
+  <img width="1859" height="913" alt="image" src="https://github.com/user-attachments/assets/3d5ab598-ac95-4884-9bbf-4c2ada1c46e3" />
+  <img width="1865" height="913" alt="image" src="https://github.com/user-attachments/assets/23d8495c-2c2a-45f8-b8e0-0fb74d95896e" />
+
+
+
 
 
 ## Streamlit Community Cloud Deployment
